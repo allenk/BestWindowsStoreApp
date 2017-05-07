@@ -118,7 +118,7 @@ We only target on Windows 10 and Windows 10 mobile platforms. The document will 
 ## Awesome Tube
 | Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
 |------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
-| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.26496.13510798886694347.f575d8f5-cba9-4557-8af6-55184c55e260.8bf21236-e951-495d-88b4-846e54db8c6a?w=48&h=48&q=60"> | YouTube | Media | Awesome Tube | <small>UWP, PC, Mobile, Xbox</small>  | [Link](https://www.microsoft.com/store/apps/9nblggh441nq) | Free+ | 2017.05.07 | <small><b>One of best youtube client</b></small> |
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.26496.13510798886694347.f575d8f5-cba9-4557-8af6-55184c55e260.8bf21236-e951-495d-88b4-846e54db8c6a?w=48&h=48&q=60"> | YouTube | Media | Awesome Tube | <small>UWP, PC, Mobile, Xbox</small>  | [Link](https://www.microsoft.com/store/apps/9nblggh441nq) | Free+ | 2017.05.07 | <small><b>One of the best youtube client</b></small> |
 |
 <img src="http://store-images.s-microsoft.com/image/apps.8452.13510798886694347.414c3e8a-1181-4c2c-a043-2bd58adb7953.59004aa4-709e-406d-9faf-84dab29cc8eb?w=471&h=260&q=60" alt="bestwsapp-pc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.16863.13510798886694347.2fd87a0d-bfd7-4bad-a564-46e2960a7257.c61fa699-1343-4cf9-b9cf-41c81ae46080?w=471&h=839&q=60" alt="bestwsapp-mobilepc-screenshot" height ="280">
 
@@ -181,7 +181,7 @@ We only target on Windows 10 and Windows 10 mobile platforms. The document will 
 ## Cover - Comic reader
 | Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
 |------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
-| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.12877.9007199266251874.157e9993-820a-4f3b-82f0-0af6c71b7914.af637940-44d2-4837-851d-80bd8fd18959?w=48&h=48&q=60"> | Comic | Reader | Cover | <small>UWP, PC, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9wzdncrfj9w7) | Free+ | 2017.05.07 | <small><b>One of best comic reader</b></small> |
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.12877.9007199266251874.157e9993-820a-4f3b-82f0-0af6c71b7914.af637940-44d2-4837-851d-80bd8fd18959?w=48&h=48&q=60"> | Comic | Reader | Cover | <small>UWP, PC, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9wzdncrfj9w7) | Free+ | 2017.05.07 | <small><b>One of the best comic reader</b></small> |
 |
 <img src="http://store-images.s-microsoft.com/image/apps.53923.9007199266251874.3986eee6-509a-45b7-b8c3-5f64062ab430.c82e511f-12db-4526-98c4-3ec239e423e1?w=472&h=266&q=60" alt="bestwsapp-pc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.51084.9007199266251874.9674a7ef-1a8b-40a4-b5d3-ac73e8e1186c.ca8e670f-0761-42a0-97dd-aa5d7da535a3?w=471&h=839&q=60" alt="bestwsapp-mobilepc-screenshot" height ="280">
 
@@ -216,7 +216,7 @@ We only target on Windows 10 and Windows 10 mobile platforms. The document will 
 ## 网易云音乐UWP
 | Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
 |------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
-| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.42481.13510798886817818.d12e8ef7-c7a8-43df-80b4-6b057491e061.ebca3ab1-4c4d-4434-a9da-fa55d6ac5a1b?w=48&h=48&q=60"> | Music | Music | 网易云音乐UWP | <small>UWP, PC, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9nblggh6g0jf) | Free+ | 2017.05.07 | <small><b>One of best musics service</b></small> |
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.42481.13510798886817818.d12e8ef7-c7a8-43df-80b4-6b057491e061.ebca3ab1-4c4d-4434-a9da-fa55d6ac5a1b?w=48&h=48&q=60"> | Music | Music | 网易云音乐UWP | <small>UWP, PC, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9nblggh6g0jf) | Free+ | 2017.05.07 | <small><b>One of the best musics service</b></small> |
 |
 <img src="http://store-images.s-microsoft.com/image/apps.21672.13510798886817818.d2103cef-a7c0-4f3e-b444-056d3354e358.32d6a654-2bf4-4d24-a23f-a34c24ff0949?w=471&h=265&q=60" alt="bestwsapp-mobilepc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.13784.13510798887578923.a4dafd3d-aa17-44a4-863a-c28ca66b4b14.34949db2-5783-4eef-b57e-a627a478187f?w=472&h=813&q=60" alt="bestwsapp-pc-screenshot" height ="280">
 
@@ -269,4 +269,101 @@ We only target on Windows 10 and Windows 10 mobile platforms. The document will 
 |
 <img src="http://store-images.s-microsoft.com/image/apps.62998.9007199266558775.a69a2c9f-a1a2-4ac3-b160-7ba49d14d30a.40efb928-1f07-4256-91e7-607504d97652?w=471&h=254&q=60" alt="bestwsapp-mobilepc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.55369.9007199266558775.63ef4806-cab5-4287-b6d0-e28ddc2d01ed.6030296f-43d1-4f08-a373-b83ab1a2e029?w=471&h=839&q=60" alt="bestwsapp-pc-screenshot" height ="280">
 
+## Pyxis
+| Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
+|------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.19425.13510798887541408.5f196a12-a62d-4d92-91c9-38083cd8779f.bf09225a-72d8-43ce-8851-3481e33cd395?w=48&h=48&q=60"> | Pixiv | Social | Pyxis | <small>UWP, PC, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9nblggh4wzx3) | NT$165.00 | 2017.05.08 | <small><b>Best Pixiv client</b></small> |
+|
+<img src="http://store-images.s-microsoft.com/image/apps.18164.13510798887541408.10356a0f-ca4d-4b20-a89a-1211150f38d6.21d12c82-a49a-453b-8fdc-8d0632ec558a?w=471&h=254&q=60" alt="bestwsapp-mobilepc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.15046.13510798887541408.871052b5-b880-4a93-8f89-620d8a905624.0582e274-5293-4bba-ae8b-74df69bb8c5c?w=471&h=839&q=60" alt="bestwsapp-pc-screenshot" height ="280">
+
+## Pixiv UWP
+| Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
+|------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.12026.14302173928893107.f4d2d825-3511-4d6e-b76a-c84c926bf395.ce99eca9-d661-4880-bb25-cea4598a321c?w=48&h=48&q=60"> | Pixiv | Social | Pixiv UWP | <small>UWP, PC, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9pm8k64j71pl) | Free | 2017.05.08 | <small><b>One of the best Pixiv "Free" client</b></small> |
+|
+<img src="http://store-images.s-microsoft.com/image/apps.45187.14302173928893107.17d5dff3-18c1-4adf-a568-6cd25314fd81.14195062-32cf-4ca7-9a57-6586b3143e80?w=471&h=274&q=60" alt="bestwsapp-mobilepc-screenshot" width ="420"> <img src="http://store-images.s-microsoft.com/image/apps.30782.14302173928893107.905209fa-98f9-4702-b84d-e151ae10d6f4.c05595d6-1f0c-43db-a0e4-80c4738e7ed6?w=471&h=274&q=60" alt="bestwsapp-pc-screenshot" width ="420">
+
+## ProShot
+| Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
+|------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.52352.13510798887605806.d0c65843-730c-4df4-b2a1-23f79ec3a5e6.31b6f7df-738f-41c0-8097-a136299473ac?w=48&h=48&q=60"> | Camera | Photo | ProShot | <small>UWP, PC, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9nblggh4tfjz) | NT$135.00 | 2017.05.08 | <small><b>Best 3rd camera app</b></small> |
+|
+<img src="http://store-images.s-microsoft.com/image/apps.60357.13510798887605806.1f6f5dd7-93bb-40ad-9e2e-26f38002a46b.530dcbd2-5e14-4116-8125-d098bf962805?w=472&h=266&q=60" alt="bestwsapp-mobilepc-screenshot"  width ="420"> <img src="http://store-images.s-microsoft.com/image/apps.23883.13510798887605806.55275241-5e00-4db4-af26-caf486290da4.9bbe2395-e4ef-49e2-98ae-2401a493e146?w=472&h=266&q=60" alt="bestwsapp-pc-screenshot"  width ="420">
+
+## WolframAlpha
+| Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
+|------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.microsoft.com/image/apps.37721.9007199266456552.f573d3c6-2ea4-4c78-a3b4-8bfa5fcd11a1.a7a2b3f6-4f7d-47d2-bb15-5984f1399566?w=48&h=48&q=60"> | Reference | Reference | WolframAlpha | <small>UWP, PC, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9wzdncrdmzkp) | NT$99.00 | 2017.05.08 | <small><b>Best knowledgebase tool </b></small> |
+|
+<img src="http://store-images.microsoft.com/image/apps.35028.9007199266456552.c3708e9d-b3f4-4c2f-a072-eb42c63a92ab.3d4055b5-23b9-400a-bf18-c95819906cf4?w=472&h=266&q=60" alt="bestwsapp-mobilepc-screenshot" height ="280"> <img src="http://store-images.microsoft.com/image/apps.31692.9007199266456552.ef873702-ea2b-4947-846b-3fef837c57cc.a7084664-e53d-4153-8b19-7bb94326ec7d?w=472&h=787&q=60" alt="bestwsapp-pc-screenshot" height ="280">
+
+## CCPlayer Pro
+| Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
+|------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.6926.9007199266265620.4f70777f-0916-49d6-b11c-aa611c80e421.d1d646f6-b12f-4548-b8c2-17a451393abe?w=48&h=48&q=60"> | Player | Media | CCPlayer | <small>UWP, PC, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9wzdncrfjljw) | NT$65.00 | 2017.05.08 | <small><b>Best media player</b></small> |
+|
+<img src="http://store-images.s-microsoft.com/image/apps.41870.9007199266265620.78d89b57-ae6b-440d-bdaa-9260a2cbcc28.5243d8c3-0ee0-42b3-b213-b0a4bac3d858?w=471&h=267&q=60" alt="bestwsapp-mobilepc-screenshot" width ="420"> <img src="http://store-images.s-microsoft.com/image/apps.2426.9007199266265620.e860fbb2-ede4-4508-ae11-5cdaaab55768.9726eb69-b823-42b9-9ef2-f829ca527fd1?w=472&h=266&q=60" alt="bestwsapp-pc-screenshot" width ="420">
+
+## ACG Player
+| Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
+|------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.23245.13510798886683854.be5c284e-9d6a-4ce2-bd47-e22a40df313f.b4a4656f-921c-4ffe-abdb-7fa4d1e533ae?w=48&h=48&q=60"> | Player | Media | ACG Player | <small>UWP, PC, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9nblggh698c7) | Free+ | 2017.05.08 | <small><b>One of the best media player. Best subtitle render!</b></small> |
+|
+<img src="http://store-images.s-microsoft.com/image/apps.19725.13510798886683854.e47d761b-df7b-4a40-a0ba-c7e63eacaaef.0b0cf2a1-b790-48ad-8fb5-0e405133e98e?w=471&h=265&q=60" alt="bestwsapp-mobilepc-screenshot" width ="420"> <img src="http://store-images.s-microsoft.com/image/apps.13112.13510798886683854.e8631f74-01b9-4dd6-a4d0-753255649eeb.c7ddc878-b1b3-4126-99e0-d3b0a6b6e907?w=472&h=266&q=60" alt="bestwsapp-pc-screenshot" width ="420">
+
+## Monument Browser
+| Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
+|------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.47196.13510798885966571.432bba2c-6bac-4c00-97ca-c31107d1301e.5f6943f3-68b9-49ed-85c3-0a6ec832c2ba?w=48&h=48&q=60"> | Browser | Tools | Monument Browser | <small>UWP, PC, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9nblggh1nsvj) | Free+ | 2017.05.08 | <small><b>Best 3rd web browser</b></small> |
+|
+<img src="http://store-images.s-microsoft.com/image/apps.29097.13510798885966571.97b20797-4d72-4dd1-9066-b61a9f084509.64be4a29-cbd6-4cd9-a8bc-b764866d3850?w=471&h=839&q=60" alt="bestwsapp-mobilepc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.26549.13510798885966571.b6a4c60e-b9b7-4dcb-87d3-cf40cc18a760.b5df8fa9-76d4-4ef9-8750-fa522f81c7b6?w=471&h=839&q=60" alt="bestwsapp-pc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.60105.13510798885966571.d78381b6-3123-4ef8-a4f6-df72c6ade245.898e3ccb-f87a-4afb-bae1-2070c172b699?w=471&h=839&q=60" alt="bestwsapp-pc-screenshot" height ="280">
+
+## IP Camera
+| Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
+|------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.58743.9007199266442778.615652e2-c717-4660-a72a-fd447b8bc831.45f25dee-4aa8-4f74-a66d-bf62d9bf1502?w=48&h=48&q=60"> | Cam | Photo | IP Camera | <small>UWP, PC, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9wzdncrdmdrm) | Free+ | 2017.05.08 | <small><b>One of the best IP Cam app. (Turn your PC & Mobile into Cam sources)</b></small> |
+|
+<img src="http://store-images.s-microsoft.com/image/apps.34123.9007199266442778.161e833a-5602-4249-8384-2d0b1fefab4a.c2b8a533-17d0-4587-9738-93910cdae180?w=471&h=265&q=60" alt="bestwsapp-mobilepc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.25417.9007199266442778.8bfb707a-b71d-44f9-80d8-b887a938723c.7e83c1a1-1ad5-43e9-bbac-e420b41ef921?w=471&h=839&q=60" alt="bestwsapp-pc-screenshot" height ="280">
+
+## 爱看视频UWP
+| Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
+|------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.32642.13965310167410064.030edbb2-2d8c-45b3-9d1f-f45814330f6e.bd22a5b7-3868-47d7-b6a4-bd93accfed78?w=48&h=48&q=60"> | Movie | Media | 爱看视频UWP | <small>UWP, PC, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9n1t5233bjwf) | Free | 2017.05.08 | <small><b>One of the best online movie player.</b></small> |
+|
+<img src="http://store-images.s-microsoft.com/image/apps.18684.13965310167410064.35eda83d-a076-4747-864a-74431a7424d5.fa4cb8e1-f2d3-4bef-a443-5791a899fbc3?w=472&h=258&q=60" alt="bestwsapp-mobilepc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.51543.13965310167410064.64e79d17-a84a-4282-a01b-78eb1b2e42a3.95c23435-48a7-490c-b78c-4c65782359e6?w=472&h=787&q=60" alt="bestwsapp-pc-screenshot" height ="280">
+
+## 追影UWP
+| Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
+|------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.41173.13510798887035834.de607059-21b8-4c35-9f63-afad8c916a09.0a623cd5-5780-4ac4-b840-688d1ebd9211?w=48&h=48&q=60"> | Movie | Media | 追影UWP | <small>UWP, PC, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9nblggh5fj4z) | Free | 2017.05.08 | <small><b>One of the best online movie player.</b></small> |
+|
+<img src="http://store-images.s-microsoft.com/image/apps.34678.13510798887035834.703ba744-c3c6-4b6f-bdf1-0330e8a9be0c.ab1afabb-92f9-40ce-b4e3-f221173f92c0?w=472&h=256&q=60" alt="bestwsapp-mobilepc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.18398.13510798887035834.85c29273-70fa-44f8-8d8f-5d9645bf84b7.140abeed-74ca-4f89-b62b-665e3496873f?w=472&h=787&q=60" alt="bestwsapp-pc-screenshot" height ="280">
+
+## SimperTV
+| Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
+|------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.31226.14193488481473430.e33313f1-e5be-4e92-b402-f15f3d679b54.db49bc67-dd6b-438a-91d2-a73486b9490c?w=48&h=48&q=60"> | Movie | Media | SimperTV | <small>UWP, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9pfv72gcg0nt) | Free | 2017.05.08 | <small><b>One of the best online movie player for mobile only.</b></small> |
+|
+<img src="http://store-images.s-microsoft.com/image/apps.27485.14193488481473430.0ac4323d-191b-43fd-b7f2-75d6b52ee47b.75007c18-c867-49a8-8da7-61028572abd0?w=472&h=266&q=60" alt="bestwsapp-mobilepc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.35182.14193488481473430.be5f414e-a512-4cd6-b0e9-2107d0b6a275.049a5545-a76f-4e76-820c-12dac1b9bb1b?w=471&h=839&q=60" alt="bestwsapp-pc-screenshot" height ="280">
+
+## Photo Shader
+| Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
+|------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.31013.9007199266601647.369d7bcc-024c-4a70-afd8-429a23083078.d69de7f2-c5e0-411f-8452-4d6c7c3700d4?w=48&h=48&q=60"> | Photo Editor | Photo | Photo Shader | <small>UWP, PC, Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9wzdncrdt2d0) | Free+ | 2017.05.08 | <small><b>One of the best photo editor.</b></small> |
+|
+<img src="http://store-images.s-microsoft.com/image/apps.22316.9007199266601647.645b9f4f-f635-4f13-a6ea-94262719c8ee.80a57845-8bcc-4054-b67f-9021a1a6f8c6?w=471&h=283&q=60" alt="bestwsapp-mobilepc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.9030.9007199266601647.ddf5b567-2610-4b96-8efc-0427f1e22026.e42c1a49-317e-4068-be69-3a578993b416?w=471&h=839&q=60" alt="bestwsapp-pc-screenshot" height ="280">
+
+## Camera360
+| Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
+|------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.45109.9007199266245760.a098ec33-5ed6-4a1b-aaef-bf6949e5af44.265ed627-6708-4d55-972c-0e7ba9d446a3?w=48&h=48&q=60"> | Photo Editor | Photo | Camera360 | <small>UWP, PC</small>  | [Link](https://www.microsoft.com/store/apps/9wzdncrfj39z) | Free+ | 2017.05.08 | <small><b>One of the best photo editor.</b></small> |
+|
+<img src="http://store-images.s-microsoft.com/image/apps.21027.9007199266245760.50371536-76eb-4cdf-a143-7a5ae1fd8159.647ea357-8aac-48a0-bb8a-88582cf42a3a?w=472&h=258&q=60" alt="bestwsapp-mobilepc-screenshot" width ="420"> <img src="http://store-images.s-microsoft.com/image/apps.57161.9007199266245760.58c27688-0d8a-4f39-a254-1921adfc8d9f.10f87756-47ea-40e5-9f3c-efb5dd973994?w=472&h=258&q=60" alt="bestwsapp-pc-screenshot" height width ="420">
+
+## Metro File Manager
+| Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
+|------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.995.9007199266248762.c8dceff5-4658-4ef2-8426-b27fbe242475.5ab8dfd5-d142-4d5f-a59c-2fec98f33eb5?w=48&h=48&q=60"> | File Manager | Tools | Metro File Manager | <small>Mobile</small>  | [Link](https://www.microsoft.com/store/apps/9wzdncrfhzqz) | Free+ | 2017.05.08 | <small><b>Best file & cloud & FTP & LAN file manager.</b></small> |
+|
+<img src="http://store-images.s-microsoft.com/image/apps.47282.9007199266248762.2c436e2e-2438-485c-9e20-dfb18be9dd0d.5b201b06-76d9-47ba-bd8f-40bf6921533a?w=472&h=787&q=60" alt="bestwsapp-mobilepc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.18776.9007199266248762.9670460c-eb61-4e5d-817c-a2bc0ff47ac7.e4414507-1332-4cc8-a05e-aa2304374cff?w=472&h=787&q=60" alt="bestwsapp-pc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.14617.9007199266248762.bdee9e64-a080-4ebf-96be-5d0e784c1711.75c1c09b-d7ed-4e27-a101-989dfff6da0a?w=472&h=787&q=60" alt="bestwsapp-pc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.47282.9007199266248762.2c436e2e-2438-485c-9e20-dfb18be9dd0d.5b201b06-76d9-47ba-bd8f-40bf6921533a?w=472&h=788&q=60" alt="bestwsapp-pc-screenshot" height ="280">
 
