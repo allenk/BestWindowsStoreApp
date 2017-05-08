@@ -202,7 +202,7 @@ We only target on Windows 10 and Windows 10 mobile platforms. The document will 
 ## Photo Editor Pro | Polarr (潑辣修圖)
 | Icon | Service  | Category     | AppName      | Tags | URI | Price | Date |Comments                                |
 |------|----------|--------------|--------------|------|:---:|-------|------|----------------------------------------|
-| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.24535.13510798885955872.a2d1daf5-1dc9-4cd4-b8f8-a0da09663d7d.817fdf3e-686f-423c-ab26-4fa573325ea1?w=48&h=48&q=60"> | Photo | Photo | Polarr | <small>UWP, PC</small>  | [Link](https://www.microsoft.com/store/apps/9nblggh1npnc) | Free+ | 2017.05.07 | <small><b>Best UWP photo editor for PC</b></small> |
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.24535.13510798885955872.a2d1daf5-1dc9-4cd4-b8f8-a0da09663d7d.817fdf3e-686f-423c-ab26-4fa573325ea1?w=48&h=48&q=60"> | Photo | Photo | Polarr | <small>UWP, PC</small>  | [Link](https://www.microsoft.com/store/apps/9nblggh1npnc) | NT$665.00 | 2017.05.07 | <small><b>Best UWP photo editor for PC</b></small> |
 |
 <img src="http://store-images.s-microsoft.com/image/apps.20872.13510798885955872.ce707e3c-5bc4-4352-854e-04cbc5378fe9.3e9b5fa1-f27a-41e5-bb28-054a736fe7ad?w=472&h=278&q=60" alt="bestwsapp-pc-screenshot" height ="280">
 
