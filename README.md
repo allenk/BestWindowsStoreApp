@@ -253,14 +253,14 @@ We only target on Windows 10 and Windows 10 mobile platforms. The document will 
 ## [QR Scanner+ (QR Code and Barcode Reader)](https://www.microsoft.com/store/apps/9wzdncrdnb92)
 | Icon | Service  | Category     | AppName      | Tags       | Price | Date |Comments                                |
 |------|----------|--------------|--------------|------------|-------|------|----------------------------------------|
-| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.4429.9007199266466143.8473ea15-f2c2-40f0-a6df-59ba9099cc15.53bebbc5-3b68-4a73-9ca7-6ff0e950af2d?w=48&h=48&q=60"> | BarCode | Tools | QR Scanner+ | <small>PC, Mobile</small> | Free+ | 2017.05.07 | <small><b>Best QR code scanner</b></small> |
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.4429.9007199266466143.8473ea15-f2c2-40f0-a6df-59ba9099cc15.53bebbc5-3b68-4a73-9ca7-6ff0e950af2d?w=48&h=48&q=60"> | BarCode | Tools | QR Scanner+ | <small>PC, Mobile</small> | NT$85 | 2017.05.07 | <small><b>Best QR code scanner</b></small> |
 |
 <img src="http://store-images.s-microsoft.com/image/apps.56356.9007199266466143.ce6bf61c-2b12-434d-b9c8-8512c6ac3c59.ab1693ac-b4bf-4308-af35-8562ec5e40b1?w=1399&h=787&q=60" alt="bestwsapp-mobile-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.2844.9007199266466143.d168b868-7c27-4811-9801-7eb92b52662d.fb6cacfa-1879-43f0-8956-17379d1403cb?w=472&h=787&q=60" alt="bestwsapp-pc-screenshot" height ="280">
 
 ## [EarTrumpet](https://www.microsoft.com/store/apps/9nblggh516xp)
 | Icon | Service  | Category     | AppName      | Tags       | Price | Date |Comments                                |
 |------|----------|--------------|--------------|------------|-------|------|----------------------------------------|
-| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.61006.13510798887629242.60299004-b27d-475d-9976-5d0bd2aa5afe.5ca62cbc-47b8-45f5-93b3-ac928849d0de?w=48&h=48&q=60"> | Audio | Tools | EarTrumpet | <small>PC-Win32-App</small> | NT$135.00 | 2017.05.07 | <small><b>Best audio volume management for Store App</b></small> |
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.61006.13510798887629242.60299004-b27d-475d-9976-5d0bd2aa5afe.5ca62cbc-47b8-45f5-93b3-ac928849d0de?w=48&h=48&q=60"> | Audio | Tools | EarTrumpet | <small>PC-Win32-App</small> | Free | 2017.05.07 | <small><b>Best audio volume management for Store App</b></small> |
 |
 <img src="http://store-images.s-microsoft.com/image/apps.3891.13510798887629242.01f46b13-1bf4-415b-8910-1a72756b06e6.1f1ec7da-87c9-49a7-8cf6-e7b771120c40?w=472&h=266&q=60" alt="bestwsapp-pc-screenshot" height ="280">
 
@@ -274,7 +274,7 @@ We only target on Windows 10 and Windows 10 mobile platforms. The document will 
 ## [Money Lover - Money Manager](https://www.microsoft.com/store/apps/9wzdncrdrg5v)
 | Icon | Service  | Category     | AppName      | Tags       | Price | Date |Comments                                |
 |------|----------|--------------|--------------|------------|-------|------|----------------------------------------|
-| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.16946.9007199266558775.f5c5d268-2d2a-439d-a623-f2cc591f3574.5bb57a6f-11bd-4b6b-b69a-dbf7835b7a81?w=48&h=48&q=60"> | Personal Finance | Finance | Money Lover | <small>PC, Mobile</small> | NT$135.00 | 2017.05.07 | <small><b>Best personal finance management tool</b></small> |
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.16946.9007199266558775.f5c5d268-2d2a-439d-a623-f2cc591f3574.5bb57a6f-11bd-4b6b-b69a-dbf7835b7a81?w=48&h=48&q=60"> | Personal Finance | Finance | Money Lover | <small>PC, Mobile</small> | Free+ | 2017.05.07 | <small><b>Best personal finance management tool</b></small> |
 |
 <img src="http://store-images.s-microsoft.com/image/apps.62998.9007199266558775.a69a2c9f-a1a2-4ac3-b160-7ba49d14d30a.40efb928-1f07-4256-91e7-607504d97652?w=471&h=254&q=60" alt="bestwsapp-mobile-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.55369.9007199266558775.63ef4806-cab5-4287-b6d0-e28ddc2d01ed.6030296f-43d1-4f08-a373-b83ab1a2e029?w=471&h=839&q=60" alt="bestwsapp-pc-screenshot" height ="280">
 
