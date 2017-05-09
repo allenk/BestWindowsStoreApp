@@ -36,7 +36,7 @@ We only target on Windows 10 and Windows 10 mobile platforms. The document will 
 # [Grover Pro](https://www.microsoft.com/store/apps/9nblggh5kjks)
 | Icon | Service  | Category     | AppName      | Tags       | Price | Date |Comments                                |
 |------|----------|--------------|--------------|------------|-------|------|----------------------------------------|
-| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.56306.13510798887013209.0bb74edc-1f04-4680-9c7e-b9f47d20a185.1a6a3b33-253b-4c1e-99bd-d0bc542c84ef?w=48&h=48&q=60">|  News | News | Grover Pro | <small>UWP, PC, Mobile</small> | NT$99.00 | 2017.05.07 | |
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.56306.13510798887013209.0bb74edc-1f04-4680-9c7e-b9f47d20a185.1a6a3b33-253b-4c1e-99bd-d0bc542c84ef?w=48&h=48&q=60">|  Podcast | News | Grover Pro | <small>UWP, PC, Mobile</small> | NT$99.00 | 2017.05.07 | |
 |
 <img src="http://store-images.s-microsoft.com/image/apps.63684.13510798887013209.62b732fd-d3de-4e27-a10e-9164b320432c.e6129d5a-77ff-4f83-9a9e-b517ac9950fc?w=472&h=252&q=60" alt="bestwsapp-pc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.57577.13510798887013209.8bd7ec01-9521-4988-9a8a-66fe10235dc7.4f27bda7-de38-44e9-8492-23284bbe7dc5?w=443&h=788&q=60" alt="bestwsapp-mobile-screenshot" height ="280">
 
@@ -393,7 +393,7 @@ We only target on Windows 10 and Windows 10 mobile platforms. The document will 
 ## [Modern Translator](https://www.microsoft.com/store/apps/9wzdncrcsg9k) 
 | Icon | Service  | Category     | AppName      | Tags       | Price | Date |Comments                                |
 |------|----------|--------------|--------------|------------|-------|------|----------------------------------------|
-| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.64298.9007199266816320.0b957e84-c3b2-48f9-88ca-3dc89e465229.448159da-3260-4a61-bc3a-e069f3adc28f?w=48&h=48&q=60"> | Translator | Tools | 追影UWP | <small>PC, Mobile</small> | NT$335.00  | 2017.05.09 | <small><b>One of the best online translator.</b></small> |
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.64298.9007199266816320.0b957e84-c3b2-48f9-88ca-3dc89e465229.448159da-3260-4a61-bc3a-e069f3adc28f?w=48&h=48&q=60"> | Translator | Tools | Modern Translator | <small>PC, Mobile</small> | NT$335.00  | 2017.05.09 | <small><b>One of the best online translator.</b></small> |
 |
 <img src="http://store-images.s-microsoft.com/image/apps.59112.9007199266816320.dd3c6d1d-0f87-4678-b6f9-5828f466996d.e65f0f8e-e95b-46a5-834a-c5c324bfe1b6?w=471&h=265&q=60" alt="bestwsapp-pc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.48053.9007199266816320.01b27103-0f9e-414a-81f0-948870dd546a.55f52916-8523-443f-b71c-bbdbdfe54e89?w=472&h=787&q=60" alt="bestwsapp-mobile-screenshot" height ="280">
 
