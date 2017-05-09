@@ -17,6 +17,9 @@ In this document, we will try to collect the best applications in Window Store. 
 
 We only target on Windows 10 and Windows 10 mobile platforms. The document will guide you to find the best applications for your Windows devices.
 
+## Release Site
+* [Github: Best Windows App Site](https://allenk.github.io/BestWindowsAppSite/)
+
 ## Contribution
 * [Github: Best Windows Store App](https://github.com/allenk/BestWindowsStoreApp)
 >The data is static and doesn't sync with Windows Store database. To get the latest information, you should follow the link to visit Windows Store website!
