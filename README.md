@@ -465,7 +465,7 @@ We only target on Windows 10 and Windows 10 mobile platforms. The document will 
 |------|----------|--------------|--------------|------------|-------|------|----------------------------------------|
 | <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.38899.13510798887677967.02a21c1f-c613-4a75-84c4-084544512ebf.7b8c466f-91bc-4b80-9c1e-78162e8e5325?w=48&h=48&q=60"> | Puzzle | Games | Sticklings | <small>PC, Mobile</small> | NT$35.00 | 2017.05.09 | <small><b>One of the best puzzle game.</b></small> |
 |
-<img src="http://store-images.s-microsoft.com/image/apps.1784.13510798887677967.f6f72873-aecf-4a2a-985a-cc38f29826b3.91adf24e-7462-4625-b34f-1b60d7c32baf?w=471&h=271&q=60" alt="bestwsapp-pc-screenshot" height ="200"> <img src="http://store-images.s-microsoft.com/image/apps.63766.13510798887677967.3f762976-e765-4eb8-9e98-34f1e6d3f7ad.f6e79244-0191-49ea-a6b1-13f93bcb92da?w=472&h=266&q=60" alt="bestwsapp-mobile-screenshot" height ="200">
+<img src="http://store-images.s-microsoft.com/image/apps.1784.13510798887677967.f6f72873-aecf-4a2a-985a-cc38f29826b3.91adf24e-7462-4625-b34f-1b60d7c32baf?w=471&h=271&q=60" alt="bestwsapp-pc-screenshot" height ="240"> <img src="http://store-images.s-microsoft.com/image/apps.63766.13510798887677967.3f762976-e765-4eb8-9e98-34f1e6d3f7ad.f6e79244-0191-49ea-a6b1-13f93bcb92da?w=472&h=266&q=60" alt="bestwsapp-mobile-screenshot" height ="240">
 
 ## [Lost Echo](https://www.microsoft.com/store/apps/9wzdncrdjnp8) <tc-apptitle>回聲迷踪</tc-apptitle>
 | Icon | Service  | Category     | AppName      | Tags       | Price | Date |Comments                                |
