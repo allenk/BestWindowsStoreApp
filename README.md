@@ -17,6 +17,11 @@ In this document, we will try to collect the best applications in Window Store. 
 
 We only target on Windows 10 and Windows 10 mobile platforms. The document will guide you to find the best applications for your Windows devices.
 
+## Update Notes
+
+We have collected 80 best applications.
+* [Goto New Apps](#new_apps)
+
 ## Release Site
 * [Github: Best Windows App Site](https://allenk.github.io/BestWindowsAppSite/)
 
@@ -663,3 +668,24 @@ We only target on Windows 10 and Windows 10 mobile platforms. The document will 
 | <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.57243.9007199266251376.935e5831-101f-4512-aabc-46b860cb243f.e05bdfb8-c524-4dad-a0d0-0967595eedb3?w=48&h=48&q=60"> | Science | Reference | Elements | <ne-tagscomment>PC, Mobile</ne-tagscomment> | Free+ | 2017.05.09 |
 |
 <img src="http://store-images.s-microsoft.com/image/apps.31962.9007199266251376.def83ed6-3fef-444b-970e-cb2bc44dd9c6.d76e13d7-877f-4423-9414-6029b5e0a2f5?w=472&h=315&q=60" alt="bestwsapp-pc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.16322.9007199266251376.575b6b5a-083d-4d4f-b81e-70559f931e9b.9c418a73-6a8a-429f-b8aa-2573776a3a45?w=471&h=839&q=60" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.36330.9007199266251376.96815ce8-6976-4501-9c2d-a6123b74dfb7.39a7dce1-a0af-4a8e-9d73-da364bd4b09b?w=471&h=839&q=60" height ="280">
+
+<!-- 80 apps -->
+<a id="new_apps"></a>
+
+## [Manga Comics](https://www.microsoft.com/store/apps/9wzdncrdj3gm)
+<ne-appcomment>One of the best online manga reader.</ne-appcomment>
+| Icon | Service  | Category     | AppName      | Tags       | Price | Date |
+|------|----------|--------------|--------------|------------|-------|------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.microsoft.com/image/apps.58490.9007199266482948.1315c5d0-ebfc-44af-9c8c-4d7aa7af596f.07376cfb-a37f-4768-809b-a88a82b4bdb2?w=48&h=48&q=60"> | Manga | Media | Manga Comics | <ne-tagscomment>PC, Mobile</ne-tagscomment> | Free+ | 2017.05.10 |
+|
+<img src="http://store-images.s-microsoft.com/image/apps.43524.9007199266482948.97ebc5fe-ec50-401f-a79d-19a4f0bdd220.a37b1b64-b459-466c-9e7f-ff6c6665edcb?w=471&h=265&q=60" alt="bestwsapp-pc-screenshot" height ="280"> <img src="http://store-images.s-microsoft.com/image/apps.14655.9007199266482948.d9ef3b4e-8d2c-4105-8189-4110cddce08a.3bb269e9-f7c0-4e41-a14d-ebfac13547c5?w=472&h=787&q=60" height ="280">
+
+## [Arcane Quest HD](https://www.microsoft.com/store/apps/9nf8mclrlrg8)
+<ne-appcomment>Great board game style RPG.</ne-appcomment>
+| Icon | Service  | Category     | AppName      | Tags       | Price | Date |
+|------|----------|--------------|--------------|------------|-------|------|
+| <img style="background-color: #000000" alt="bestwsapp-app-icon" src="http://store-images.s-microsoft.com/image/apps.19096.13599285838099983.5c1f8206-f88a-47ff-b864-b489bbdd6b4d.f9f7e1eb-dd86-46bf-b445-b1b475fca6b9?w=48&h=48&q=60"> | SLG RPG | Game | Arcane Quest HD | <ne-tagscomment>PC, Mobile</ne-tagscomment> | NT$49.00 | 2017.05.10 |
+|
+<img src="http://store-images.s-microsoft.com/image/apps.32544.13599285838099983.2a14ccdc-d5f7-4849-aa57-85bad408d265.20adfaba-2eba-4a02-9683-6ce7926ec173?w=471&h=265&q=60" alt="bestwsapp-pc-screenshot" width ="420"> <img src="http://store-images.s-microsoft.com/image/apps.22197.13599285838099983.a261d3a7-373a-4708-85dd-23ce411b9131.90d8ce9c-27e9-4d6e-9b4a-3c6ace245316?w=472&h=266&q=60" width ="420">
+
+[Go to Top](#)
