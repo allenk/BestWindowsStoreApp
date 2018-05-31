@@ -20,6 +20,8 @@ We only target on Windows 10 and Windows 10 mobile platforms. The document will 
 
 ## Update Notes
 
+Because of the change of Windows Phone strategy, we will now prefer to collect more Windows 10 ARM/x86 based applications.
+
 We have collected 93 best applications.
 * [Goto New +13 Apps](#new_apps)
 
